@@ -7,10 +7,6 @@ pessoa1.Apresentar();
 
 
 
-
-
-
-
 //--------------------ESTRUTURAS DE REPETIÇÃO---------------------------
 
 // string opcao;
