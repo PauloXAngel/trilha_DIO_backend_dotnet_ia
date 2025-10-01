@@ -1,0 +1,11 @@
+D:\DIO\Trilha_Backend\ExemploFundamentos.Common\bin\Debug\net9.0\ExemploFundamentos.Common.deps.json
+D:\DIO\Trilha_Backend\ExemploFundamentos.Common\bin\Debug\net9.0\ExemploFundamentos.Common.dll
+D:\DIO\Trilha_Backend\ExemploFundamentos.Common\bin\Debug\net9.0\ExemploFundamentos.Common.pdb
+D:\DIO\Trilha_Backend\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\Trilha_Backend\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+D:\DIO\Trilha_Backend\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.AssemblyInfo.cs
+D:\DIO\Trilha_Backend\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+D:\DIO\Trilha_Backend\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.dll
+D:\DIO\Trilha_Backend\ExemploFundamentos.Common\obj\Debug\net9.0\refint\ExemploFundamentos.Common.dll
+D:\DIO\Trilha_Backend\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.pdb
+D:\DIO\Trilha_Backend\ExemploFundamentos.Common\obj\Debug\net9.0\ref\ExemploFundamentos.Common.dll
