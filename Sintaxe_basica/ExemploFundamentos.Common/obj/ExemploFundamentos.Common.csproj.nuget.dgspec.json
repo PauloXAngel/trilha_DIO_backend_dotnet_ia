@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\backend.NET_DIO\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
+    "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
   },
   "projects": {
-    "D:\\backend.NET_DIO\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+    "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\backend.NET_DIO\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectUniqueName": "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "projectName": "ExemploFundamentos.Common",
-        "projectPath": "D:\\backend.NET_DIO\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectPath": "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\Angelo\\.nuget\\packages\\",
-        "outputPath": "D:\\backend.NET_DIO\\ExemploFundamentos.Common\\obj\\",
+        "outputPath": "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Angelo\\AppData\\Roaming\\NuGet\\NuGet.Config"

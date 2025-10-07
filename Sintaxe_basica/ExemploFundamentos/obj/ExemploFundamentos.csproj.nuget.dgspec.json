@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\backend.NET_DIO\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
+    "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
   },
   "projects": {
-    "D:\\backend.NET_DIO\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+    "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\backend.NET_DIO\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectUniqueName": "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "projectName": "ExemploFundamentos.Common",
-        "projectPath": "D:\\backend.NET_DIO\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectPath": "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\Angelo\\.nuget\\packages\\",
-        "outputPath": "D:\\backend.NET_DIO\\ExemploFundamentos.Common\\obj\\",
+        "outputPath": "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Angelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "D:\\backend.NET_DIO\\ExemploFundamentos\\ExemploFundamentos.csproj": {
+    "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos\\ExemploFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\backend.NET_DIO\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectUniqueName": "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "projectName": "ExemploFundamentos",
-        "projectPath": "D:\\backend.NET_DIO\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectPath": "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "packagesPath": "C:\\Users\\Angelo\\.nuget\\packages\\",
-        "outputPath": "D:\\backend.NET_DIO\\ExemploFundamentos\\obj\\",
+        "outputPath": "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Angelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -85,8 +85,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\backend.NET_DIO\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
-                "projectPath": "D:\\backend.NET_DIO\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+              "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+                "projectPath": "D:\\backend.NET_DIO\\Sintaxe_basica\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
               }
             }
           }
