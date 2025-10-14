@@ -1,0 +1,15 @@
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\bin\Debug\net9.0\ExemploExplorar.exe
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\bin\Debug\net9.0\ExemploExplorar.deps.json
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\bin\Debug\net9.0\ExemploExplorar.runtimeconfig.json
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\bin\Debug\net9.0\ExemploExplorar.dll
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\bin\Debug\net9.0\ExemploExplorar.pdb
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ExemploExplorar.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ExemploExplorar.AssemblyInfoInputs.cache
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ExemploExplorar.AssemblyInfo.cs
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ExemploExplorar.csproj.CoreCompileInputs.cache
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ExemploExplorar.sourcelink.json
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ExemploExplorar.dll
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\refint\ExemploExplorar.dll
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ExemploExplorar.pdb
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ExemploExplorar.genruntimeconfig.cache
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ref\ExemploExplorar.dll
