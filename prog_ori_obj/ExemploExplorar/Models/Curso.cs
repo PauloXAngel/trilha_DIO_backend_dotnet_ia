@@ -15,5 +15,29 @@ namespace ExemploExplorar.Models
         {
             Alunos.Add(aluno);
         }
+
+        public int ObterQuantidadeDeAlunosMatriculados()
+        {
+            int quantidade = Alunos.Count();
+            return quantidade;
+        }
+
+        public bool RemoverAluno(Pessoa aluno)
+        {
+            Alunos.Remove(aluno);
+            return Alunos.Remove(aluno);
+        }
+        public void ListarAlunos()
+        {
+            Console.WriteLine($"Alunos do curso de {Nome}:");
+            Console.WriteLine("--------------------------------------------------");
+
+            for (int count = 0; count < Alunos.Count; count++)
+            {
+                //string texto = "N° " + count + " - " + Alunos[count].NomeCompleto;
+                string texto = $"N° {count + 1} - {Alunos[count].NomeCompleto}";
+                Console.WriteLine(texto);
+            }
+        }
     }
 }
