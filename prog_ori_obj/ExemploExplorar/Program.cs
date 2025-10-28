@@ -1,13 +1,89 @@
 ﻿ using ExemploExplorar.Models;
- using System.Globalization;
+using System.Globalization;
+using Newtonsoft.Json;
 
 
-LeituraArquivo arquivo = new LeituraArquivo();
-var (Sucesso, Linhas, QuantidadeDeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+List<Venda> listaVendas = new List<Venda>();
+
+Venda v1 = new Venda(1, "Material de escritório", 25.00m);
+Venda v2 = new Venda(2, "Licença de Software", 110.00m);
+
+listaVendas.Add(v1);
+listaVendas.Add(v2);
+
+string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+
+File.WriteAllText("Arquivos/vendas.json", serializado);
+
+Console.WriteLine(serializado);
+
+
+ 
+
+
+// int numero = 20;
+// bool ehPar = false;
+
+
+// ehPar = numero % 2 == 0;
+
+// Console.WriteLine($" o numero {numero} é" + (ehPar ? "par" : "impar"));
 
 
 
 
+
+
+
+
+
+
+// if (numero % 2 == 0)
+// {
+//     Console.WriteLine($"O numero {numero} é par");
+// }
+// else
+// {
+//     Console.WriteLine($"O numero {numero} é impar ");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+// Pessoa p1 = new Pessoa("Paulo","Angelo");
+
+// (string nome, string sobrenome) = p1;
+
+// Console.WriteLine($"{nome} {sobrenome}");
+
+
+
+
+// LeituraArquivo arquivo = new LeituraArquivo();
+// var (Sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+
+// if (Sucesso)
+// {
+//     //Console.WriteLine("Quantidade de linhas do arquibo: "+ QuantidadeDeLinhas);
+//     foreach(string linha in linhasArquivo)
+//     {
+//         Console.WriteLine(linha);
+//     }
+// } 
+
+// else
+// { 
+//     Console.WriteLine("Não foi possivel ler o arquivo");
+// }
 
 
 

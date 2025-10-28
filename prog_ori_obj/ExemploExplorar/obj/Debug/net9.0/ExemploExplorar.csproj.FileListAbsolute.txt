@@ -13,3 +13,6 @@ D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\refint\ExemploE
 D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ExemploExplorar.pdb
 D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ExemploExplorar.genruntimeconfig.cache
 D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ref\ExemploExplorar.dll
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ExemploExplorar.csproj.AssemblyReference.cache
+D:\backend.NET_DIO\prog_ori_obj\ExemploExplorar\obj\Debug\net9.0\ExemploE.59777834.Up2Date
