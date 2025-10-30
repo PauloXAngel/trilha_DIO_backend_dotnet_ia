@@ -1,16 +1,41 @@
 ﻿using ExemploPOO.Models;
 
-ContaCorrente c1 = new ContaCorrente(123, 1000);
 
-c1.ExibirSaldo();
-c1.Sacar(5000);
-c1.ExibirSaldo();
+Aluno a1 = new Aluno();
+a1.Nome = "Paulo";
+a1.Idade = 26;
+a1.Email = "pauloangeloads@gmail.com";
+a1.Nota = 10;
+a1.Apresentar();
+
+Professor p1 = new Professor();
+p1.Nome = "Eduardo";
+p1.Idade = 30;
+p1.Salario = 1000;
+p1.Apresentar();
+
+
+
+
+
+
+
+
+
+
+
+
+// ContaCorrente c1 = new ContaCorrente(123, 1000);
+
+// c1.ExibirSaldo();
+// c1.Sacar(5000);
+// c1.ExibirSaldo();
 
  
 
-// // um objeto é uma concretização  de uma representação 
-// Pessoa p1 = new Pessoa(); //Criando objeto de uma classe / P1 se torna objeto da Pessoa
-// p1.Nome = "Paulo";
-// p1.Idade = 26;
+// // // um objeto é uma concretização  de uma representação 
+// // Pessoa p1 = new Pessoa(); //Criando objeto de uma classe / P1 se torna objeto da Pessoa
+// // p1.Nome = "Paulo";
+// // p1.Idade = 26;
 
-// p1.Apresentar();
+// // p1.Apresentar();
